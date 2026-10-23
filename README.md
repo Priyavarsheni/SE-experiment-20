@@ -24,5 +24,12 @@ This repository demonstrates the basic use of GitHub for storing project files a
 ## Result
 
 Successfully created a GitHub repository and updated the README file.
+## What I Learned
+
+- Creating a GitHub repository.
+- Editing and updating project files.
+- Saving changes using commits.
+- Using GitHub for version control.
+
 
 
